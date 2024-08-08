@@ -47,10 +47,12 @@
 
 
 .botao__card{
+    display: flex;
+    justify-content: center;
     background-color: var(--amarelo);
     padding: 0.5em;
     width: 90%;
-    margin: 1em;
+    margin: 1em auto;
    
 }
 

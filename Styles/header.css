@@ -4,6 +4,7 @@
     justify-content: space-between;
     align-items: center;
     position: relative;
+    z-index: 2;
 }
 
 .container{
@@ -50,7 +51,6 @@
     position: absolute;
     top: 100%;
     width: 50vw;
-    
 }
 
 .lista-menu__titulo, .lista-menu__item{
