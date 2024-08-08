@@ -45,6 +45,9 @@
     width: 115px;
 }
 
+.botao{
+    margin-bottom: 1em;
+}
 
 .botao__card{
     display: flex;
@@ -52,9 +55,7 @@
     background-color: var(--amarelo);
     padding: 0.5em;
     width: 90%;
-    margin: 1em auto;
-    margin-bottom: 1em;
-   
+    margin: 1em auto;  
 }
 
 .botao__link{
